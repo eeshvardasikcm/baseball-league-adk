@@ -5,4 +5,4 @@ Created by Eeshvar Das (Erik Douglas Ward) in June 2025. Eeshvar Das is the owne
 
 When both teams are playing a game at a road stadium, the series is played with alternating who bats first for each game in the series.
 
-For development of this short project to be committed to this repository at version 0.2 within the next 10 days, I have thought of a simple multi-agent simulation system that is made of two major parts, the alternate timeline environmentally sound agent, and the game simulation and league agents.
+For development of this project to be committed to this repository at version 0.2 within the next 10 days, I have thought of a simple multi-agent simulation system that is made of two major parts, the alternate timeline environmentally sound agent, and the game simulation and league agents.
